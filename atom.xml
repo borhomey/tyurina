@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Фотограф Анна Тюрина]]></title>
+  <link href="http://tyurina.ru//atom.xml" rel="self"/>
+  <link href="http://tyurina.ru//"/>
+  <updated>2014-09-10T00:20:39+04:00</updated>
+  <id>http://tyurina.ru//</id>
+  <author>
+    <name><![CDATA[www.tyurina.ru]]></name>
+    
+  </author>
+
+  
+</feed>
