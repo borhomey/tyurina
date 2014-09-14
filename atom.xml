@@ -1,15 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
-  <title><![CDATA[Фотограф Анна Тюрина]]></title>
-  <link href="http://tyurina.ru//atom.xml" rel="self"/>
-  <link href="http://tyurina.ru//"/>
-  <updated>2014-09-10T00:20:39+04:00</updated>
-  <id>http://tyurina.ru//</id>
-  <author>
-    <name><![CDATA[www.tyurina.ru]]></name>
-    
-  </author>
-
-  
+	<title><![CDATA[Фотограф Анна Тюрина]]></title>
+	<link href="http://tyurina.ru//atom.xml" rel="self"/>
+	<link href="http://tyurina.ru//"/>
+	<updated>2014-09-14T15:29:14+04:00</updated>
+	<id>http://tyurina.ru//</id>
+	<author>
+		<name><![CDATA[www.tyurina.ru]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[second]]></title>
+		
+		<link href="http://tyurina.ru//second/"/>
+		<updated>2014-09-14T13:05:24+04:00</updated>
+		<id>http://tyurina.ru//second</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[first-new-post]]></title>
+		
+		<link href="http://tyurina.ru//first-new-post/"/>
+		<updated>2014-09-14T12:54:00+04:00</updated>
+		<id>http://tyurina.ru//first-new-post</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[first]]></title>
+		
+		<link href="http://tyurina.ru//first/"/>
+		<updated>2014-09-14T12:52:54+04:00</updated>
+		<id>http://tyurina.ru//first</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
+	
 </feed>
